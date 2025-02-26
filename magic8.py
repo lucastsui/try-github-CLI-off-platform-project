@@ -1,3 +1,5 @@
+# some comment
+
 import random
 
 name = "Joe"
