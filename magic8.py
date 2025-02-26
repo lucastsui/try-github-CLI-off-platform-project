@@ -1,4 +1,4 @@
-# some comment
+# some comments
 
 import random
 
